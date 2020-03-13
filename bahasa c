@@ -1,0 +1,15 @@
+/* File : ASIGN.C */
+#include <stdio.h>
+
+int main ()
+{
+    /* Kamus */
+    int i;
+
+    /* Program */
+    printf ("Selamat Siang\n");
+    printf ("Nama saya Tasya Nurul Annisa\n");
+    i = 18;
+    printf ("Usia saya %d tahun", i);
+    return 0;
+}
